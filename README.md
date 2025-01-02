@@ -1,1 +1,1 @@
-Arquivos referente ao Capitulo consultas SQL 
+Arquivos referente ao capítulo Consultas SQL 
